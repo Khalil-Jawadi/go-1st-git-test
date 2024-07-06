@@ -1,0 +1,8 @@
+my favorite books :
+- algorithm
+- software engineering
+- data engineering
+-digital marketing
+-cybersecurity
+- Data sciennce
+- coding interview
