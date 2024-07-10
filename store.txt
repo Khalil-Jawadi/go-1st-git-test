@@ -1,3 +1,4 @@
 buy fruits
 buy tissue
-but drinks
+buy drinks
+buy a t shirt
